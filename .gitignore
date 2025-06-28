@@ -1,0 +1,12 @@
+/CucumberFramework/target/
+/CucumberFramework/test-output/
+/CucumberFramework_JUnit/target/
+/CucumberFramework_JUnit/test-output/
+*.log
+*.classpath
+.project
+*.settings/
+.DS_Store
+Thumbs.db
+*.class
+*.tmp
